@@ -1,0 +1,11 @@
+.NavBar{
+    background-color: #706d6d;
+    border: solid 1px black;
+    
+}
+
+li > a {
+    color: white;
+    text-decoration: none;
+    margin-left: 1rem;
+}
